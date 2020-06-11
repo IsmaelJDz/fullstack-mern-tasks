@@ -2,7 +2,7 @@
 
 ![Captura de la app](./.readme-static/MERNTasks.png)
 
-[ver la aplicación](https://y-rho.now.sh/)
+[ver la aplicación](https://fullstack-mern.netlify.app/)
 
 -- Technologies
 Node
